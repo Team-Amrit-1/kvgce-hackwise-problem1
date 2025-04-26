@@ -25,6 +25,8 @@ Step 4 - If want to check the that we have got same mean for Expected Outcome an
 #### All outputs of image files are stored in normalized_image{i}.png   i-> 1-10 ( Exact location of storing those images mentioned in brief below.... )
 
 #### Image file outputs
+NOTE -> If HiddenTestCase1 and HiddenTestCase2 folders are not present just Create the folders inside NormalizedImages folder
+
     NormalizedImages folder is created inside which there are 4 folders named as 
     HiddenTestCase1, HiddenTestCase2, SampleOutputTestCase, Satellite_images_Output
 
