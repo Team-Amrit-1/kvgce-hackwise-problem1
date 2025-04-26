@@ -1,9 +1,9 @@
 # kvgce-hackwise-problem1
 #### Team Name - Team Amrit
 #### Problem Number and Title - Problem 1 - Satellite Image Brightness Normalizer
-### Command Instructions to run the Code are as below:
+#### Command Instructions to run the Code are as below:
 
-### Step 1 - Activate Virtual env
+Step 1 - Activate Virtual env
     command - .\myvenv\Scripts\activate      ---> for windows
                 source myvenv/bin/activate   ---> for Linux
     To Deactivate,
