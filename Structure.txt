@@ -1,0 +1,17 @@
+kvgce-hackwise-problem1
+├── myenv/
+├── NormalizedImages/
+│   ├── HiddenTestCase1/
+│   ├── HiddenTestCase2/
+│   ├── SampleOutputTestCase/
+│   └── Satellite_images_Output/
+├── satellite_images/
+├── test cases/
+│   ├── sample_expected/
+│   └── sample_input/
+├── compare_values.py
+├── flowchart.excalidraw
+├── main.py
+├── problem1.pdf
+├── requirements.txt
+└── satellite_images.zip
