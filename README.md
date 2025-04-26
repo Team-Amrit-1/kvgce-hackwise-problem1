@@ -19,5 +19,4 @@ Step 4 - If want to check the that we have got same mean for Expected Outcome an
     Run the compare_values.py
     command - python compare_values.py       ( for linux use --> python3 compare_values.py  )
 
-#### Dependencies: 
-     All required python libraries can be download as per above command instruction to run the code focusing on step 2 after activating virtual Environment
+#### Dependencies: All required python libraries can be download as per above command instruction to run the code focusing on step 2 after activating virtual Environment
