@@ -59,9 +59,10 @@ def NormImages_Output(global_avg, images_load_grayscale, image_indices, missing_
             for satellite_images_Output for normalized_images{i}.png ==> f"NormalizedImages/Satellite_images_Output/{filename}"
 
             Test Case 1: sample_input ==> f"NormalizedImages/TestCaseOutputSample/{filename}"
-            Test Case 2: HiddenTestCase1 ==> f"NormalizedImages/HiddenTestCase1/{filename}"
+            Test Case 2: HiddenTestCase1 ==> f"NormalizedImages/HiddenTestCase1/{filename}"    
             Test Case 3: HiddenTestCase2 ==> f"NormalizedImages/HiddenTestCase2/{filename}"
             
+            Note -> Create HiddenTestCase1 and HiddenTestCase2 folder if not present in NormalizedImages folder
         """ 
 
     for i, img in zip(image_indices, normalized_images):
